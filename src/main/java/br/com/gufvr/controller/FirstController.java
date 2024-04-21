@@ -1,4 +1,4 @@
-package br.com.gufvr.firstspringbootproject;
+package br.com.gufvr.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
